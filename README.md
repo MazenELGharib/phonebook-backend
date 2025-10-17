@@ -29,12 +29,17 @@ This is a fullstack phonebook application with the frontend build included and s
 1. Clone the repo:
 ```bash
 git clone https://github.com/MazenELGharib/phonebook-backend.git
+```
 
 2.Install dependencies:
+```bash
 yarn install
+```
 
 3.Run in development mode:
+```bash
 yarn dev
+```
 - Backend runs on http://localhost:3001
 
 ## Notes
